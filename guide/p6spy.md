@@ -66,5 +66,5 @@ outagedetectioninterval=2
 - 打印出sql为null,在excludecategories增加commit
 - 批量操作不打印sql,去除excludecategories中的batch
 - 批量操作打印重复的问题请使用MybatisPlusLogFactory (3.2.1新增）
-- 该插件有性能损耗，不建议生产环境使用。
+- 该插件有性能损耗，不建议生产环境使用
 :::
